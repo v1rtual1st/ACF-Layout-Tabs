@@ -1,0 +1,20 @@
+////////////////////////////////////////
+
+    ACF Reorder installation notes
+
+////////////////////////////////////////
+
+
+1) Install Advanced Custom Fields Wordpress plugin
+    ^- https://wordpress.org/plugins/advanced-custom-fields/
+
+2) Install ACF Enhanced Message Field Wordpress plugin
+    ^- https://wordpress.org/plugins/acf-enhanced-message-field/
+
+3) Create new field group and add Enhanced message field
+
+4) Copy the code from acf_reorder.php into 'Message' input (see screen_visual_preview.jpg)
+
+5) Organize your fields into tabs - if the field is not set to display within tab it will not show when this script is applied
+
+6) For custom CSS/JS please modify acf_reorder.php - you will find placeholders there
