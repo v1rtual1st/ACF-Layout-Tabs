@@ -1,6 +1,4 @@
 Feel free to modify and use for commercial purposes (see limitations below).
-Author - virtualist.
-Re-selling standalone plugin is not allowed.
+Re-selling standalone code is not allowed.
 If you wish to include this plugin as part of another, you MUST contact me first.
 I do NOT take any responsibility for ANY damage caused by using this plugin.
-To get in touch please check author.txt
